@@ -137,13 +137,13 @@ The frontend will start at `http://localhost:5173` (or `5174` if 5173 is in use)
 
 ## Frontend Features
 
-✅ **Modern Chat Interface** - ChatGPT-like UI with Tailwind CSS
-✅ **Real-time Chat** - Send and receive messages
-✅ **Microphone Input** - Record audio responses
-✅ **Video Camera** - Live video feed during interview
-✅ **Error Handling** - User-friendly error messages
-✅ **Loading States** - Visual feedback during processing
-✅ **Responsive Design** - Works on desktop and mobile
+**Modern Chat Interface** - ChatGPT-like UI with Tailwind CSS
+**Real-time Chat** - Send and receive messages
+**Microphone Input** - Record audio responses
+**Video Camera** - Live video feed during interview
+**Error Handling** - User-friendly error messages
+**Loading States** - Visual feedback during processing
+**Responsive Design** - Works on desktop and mobile
 
 ## Usage
 
